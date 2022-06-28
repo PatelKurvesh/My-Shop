@@ -1,5 +1,5 @@
 # My-Shope
-It is a simple website for shopping not so much responsive it is made for desktops using HTML, CSS, and javascript.
+It is a simple static website for shopping not so much responsive it is made for desktops using HTML, CSS, and javascript.
 <br>
 <ul>
 <b>List of pages :-</b>
