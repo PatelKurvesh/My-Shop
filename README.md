@@ -1,4 +1,5 @@
-# My-Shope
+# My-Shop
+
 It is a simple static website for shopping not so much responsive it is made for desktops using HTML, CSS, and javascript.
 <br>
 <ul>
